@@ -1,5 +1,4 @@
 use crate::lexer::token::Token;
-use regex::Regex;
 
 pub struct Lexer {
     input: String,
